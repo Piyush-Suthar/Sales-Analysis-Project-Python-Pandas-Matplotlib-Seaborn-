@@ -1,4 +1,4 @@
-# Sales-Analysis-Project-Python-Pandas-Matplotlib-Seaborn-
+**# Sales Analysis Project – Python (Pandas, Matplotlib, Seaborn)**
 
 📌 **Project Overview**
 
